@@ -1,4 +1,4 @@
-# Android device tree for oplus ossi (ossi)
+# Android device tree for OnePlus 10T / Ace Pro sm8450 (ossi)
 
 ```
 #
